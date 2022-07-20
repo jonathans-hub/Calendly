@@ -1,0 +1,141 @@
+.heroheadtext {
+    font-size: 4.20875rem;
+    max-width: 450px;
+    font-weight: 900;
+    line-height: 1.1;
+}
+
+.nafnaf {
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.inputmain {
+    position: relative;
+}
+
+.input1 {
+    box-shadow: rgb(0 0 0 / 20%) 0px 2px 10px;
+}
+
+.button1 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    box-shadow: rgb(0 0 0 / 20%) 0px 2px 10px;
+}
+
+.imgfluid11 {
+    width: auto;
+    max-width: 120px;
+    min-width: 100px;
+    max-height: 30px;
+}
+
+.imgfluid1 {
+    width: auto;
+    max-width: 120px;
+    min-width: 100px;
+    max-height: 30px;
+}
+
+.roundtext {
+    border: 1px solid blue;
+    border-radius: 50%;
+    width: 25px;
+}
+
+.line11 {
+    height: 180px;
+    border-left: 1px solid black;
+    margin-left: 12px;
+}
+
+
+.index-social {
+    background-color: #2c2c2c;
+    color: #fff;
+}
+
+.link-area .fa-li {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: solid 1px #fff;
+    list-style-type: none;
+    margin: 5px;
+    display: inline-block;
+}
+
+.index-social a {
+    color: #fff;
+    font-size: 25px;
+    display: block;
+    float: left;
+    padding: 10px;
+}
+
+.index-link h3 {
+    text-align: center;
+    text-align: left;
+
+}
+
+.index-link {
+    background-color: white;
+}
+
+.index-link ul {
+    padding: 0px;
+}
+
+.index-link ul li {
+    list-style-type: none;
+}
+
+.index-link ul li a {
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+    display: block;
+    padding: 5px 0;
+    text-align: left;
+}
+
+.index-link ul li a:hover {
+    text-decoration: underline;
+}
+
+.copy-c {
+    padding-top: 15px;
+}
+
+.dropdown:hover .dropdrop {
+    display: block;
+}
+
+.containerimg {
+    background-image: url(https://images.ctfassets.net/k0lk9kiuza3o/41lq28noewrKzn6B9AXh1I/636e53047ab81e34ee6862ff822448f5/Calendly_CTA_bg__1_.png);
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: visible;
+}
+
+.containerimg1 {
+    background-image: url(https://images.ctfassets.net/k0lk9kiuza3o/5rBS8S0Z90bJJV5ryUxvyt/6fcab33529365c6035e3613a2580a372/Calendly-Light-Bg.jpg);
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: visible;
+}
+
+.backback::before {
+
+    content: '';
+    position: absolute;
+    width: 9.4cm;
+    height: 3cm;
+    z-index: -1;
+}
